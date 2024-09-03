@@ -1,0 +1,124 @@
+{
+  [
+    {
+      "professor": "John Doe",
+      "subject": "Introduction to Computer Science",
+      "stars": 4,
+      "review": "Professor Doe was a great teacher. He explained concepts clearly and was always willing to answer questions."
+    },
+    {
+      "professor": "Jane Smith",
+      "subject": "Calculus I",
+      "stars": 3,
+      "review": "The course was challenging, but Professor Smith was a good lecturer. She provided helpful examples and practice problems."
+    },
+    {
+      "professor": "David Lee",
+      "subject": "English Composition",
+      "stars": 5,
+      "review": "Professor Lee is an amazing teacher. He is passionate about literature and inspired me to love reading."
+    },
+    {
+      "professor": "Emily Chen",
+      "subject": "Biology I",
+      "stars": 2,
+      "review": "The course material was too much for me. Professor Chen's lectures were difficult to follow."
+    },
+    {
+      "professor": "Thomas Brown",
+      "subject": "History of the United States",
+      "stars": 4,
+      "review": "Professor Brown is a knowledgeable historian. He made the course interesting and engaging."
+    },
+    {
+      "professor": "Sarah Johnson",
+      "subject": "Chemistry I",
+      "stars": 3,
+      "review": "The lab experiments were fun, but the lectures were a bit dry. Professor Johnson was helpful during office hours."
+    },
+    {
+      "professor": "Michael Wilson",
+      "subject": "Psychology 101",
+      "stars": 5,
+      "review": "Professor Wilson is a great teacher. He is very approachable and always willing to help students."
+    },
+    {
+      "professor": "Jennifer Davis",
+      "subject": "Sociology 101",
+      "stars": 2,
+      "review": "The course material was boring. Professor Davis' lectures were monotone."
+    },
+    {
+      "professor": "Matthew Taylor",
+      "subject": "Economics 101",
+      "stars": 4,
+      "review": "Professor Taylor is a good teacher. He explains concepts clearly and is always willing to answer questions."
+    },
+    {
+      "professor": "Ashley Clark",
+      "subject": "Art History",
+          "stars": 5,
+      "review": "Professor Clark is a passionate art historian. She made the course interesting and engaging."
+    },
+    {
+      "professor": "James Harris",
+      "subject": "Philosophy 101",
+      "stars": 3,
+      "review": "The course material was challenging, but Professor Harris was a good lecturer. He provided helpful examples and discussion topics."
+    },
+    {
+      "professor": "Olivia Carter",
+      "subject": "Physics 101",
+      "stars": 2,
+      "review": "The course was difficult. Professor Carter's lectures were hard to follow."
+    },
+    {
+      "professor": "Nicholas Miller",
+      "subject": "Statistics 101",
+      "stars": 4,
+      "review": "Professor Miller is a good teacher. He explains concepts clearly and is always willing to answer questions."
+    },
+    {
+      "professor": "Emma Moore",
+      "subject": "Astronomy 101",
+      "stars": 5,
+      "review": "Professor Moore is a passionate astronomer. She made the course interesting and engaging."
+    },
+    {
+      "professor": "Benjamin Turner",
+      "subject": "Political Science 101",
+      "stars": 3,
+      "review": "The course material was boring. Professor Turner's lectures were monotone."
+    },
+    {
+      "professor": "Abigail Jones",
+      "subject": "Geology 101",
+      "stars": 4,
+      "review": "Professor Jones is a good teacher. She explains concepts clearly and is always willing to answer questions."
+    },
+    {
+      "professor": "William Turner",
+      "subject": "Computer Science II",
+      "stars": 2,
+      "review": "The course was difficult. Professor Turner's lectures were hard to follow."
+    },
+    {
+      "professor": "Victoria Taylor",
+      "subject": "Calculus II",
+      "stars": 5,
+      "review": "Professor Taylor is an amazing teacher. She is passionate about mathematics and inspired me to love the subject."
+    },
+    {
+      "professor": "Daniel Smith",
+      "subject": "English Literature",
+      "stars": 3,
+      "review": "The course material was challenging, but Professor Smith was a good lecturer. He provided helpful examples and discussion topics."
+    },
+    {
+      "professor": "Emily Wilson",
+      "subject": "Biology II",
+      "stars": 4,
+      "review": "Professor Wilson is a good teacher. She explains concepts clearly and is always willing to answer questions."
+    }
+  ]
+}
